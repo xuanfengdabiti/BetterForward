@@ -5,8 +5,8 @@ services:
     image: ghcr.io/sidecloudgroup/betterforward:latest
     restart: unless-stopped
     environment:
-      - TOKEN=your_bot_token_here
-      - GROUP_ID=your_group_id_here
+      - TOKEN=8236572760:AAH9HiQ5aCFc_rRNygTGVF5GTF6H4i5iYiY
+      - GROUP_ID=-1003517270710
       - LANGUAGE=zh_CN
       - TG_API=
       - WORKER=2
